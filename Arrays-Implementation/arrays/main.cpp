@@ -15,6 +15,8 @@
  #include <bits/stdc++.h>
  using namespace std;
 
+//edited code
+
  class DynamicArray {
     int *arr; //creating array pointer
     int capacity; // holds the actual size of the array.
